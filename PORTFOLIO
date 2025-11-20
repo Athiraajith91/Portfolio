@@ -1,0 +1,207 @@
+COVER PAGE
+Title: Python Basics – Week 1 Curriculum & Teaching Portfolio
+Prepared By: ATHIRA A
+Subject: Python Programming for Beginners
+Target Audience: Ages 10+, School Students & Adult Beginners
+Duration: 1 Week (5 Days)
+Tools Used: Python (Replit / IDLE / Online Compiler / Code.org)
+Date: 19-11-2025
+
+CURRICULUM OUTLINE (WEEK 1)
+Day 1 – Introduction to Python & Printing Output
+Learning Objectives:
+•	Understand what programming is
+•	Learn where Python is used
+•	Use print()
+•	Display text and numbers
+Activities:
+•	Icebreaker
+•	Demo: First Python code
+•	Hands-on: 5 print statements
+Outcome:
+Students can write simple programs that display messages.
+
+Day 2 – Variables & Data Types
+Learning Objectives:
+•	Understand variables
+•	Store text & numbers
+•	Know int, float, string
+Activities:
+•	Explain variables using real-life examples
+•	Demo with variables
+•	Practice tasks
+Outcome:
+Students can create and print variables.
+
+Day 3 – Input & Basic Expressions
+Learning Objectives:
+•	Use input ()
+•	Perform basic operations
+•	Convert types
+Activities:
+•	Demo: Taking name & age
+•	Arithmetic practice
+•	Mini calculator
+Outcome:
+Students can build programs with input and expressions.
+
+Day 4 – Conditional Statements (if/else)
+Learning Objectives:
+•	Understand conditions
+•	Compare numbers & strings
+•	Use if/else
+Activities:
+•	Age check program
+•	Grading system
+•	Login simulation
+Outcome:
+Students understand decision-making in Python.
+
+Day 5 – Project Day
+Students choose one:
+•	Age Calculator
+•	Number Comparison Tool
+•	Login System
+•	Simple Chat Responder
+Outcome:
+Applies concepts from Days 1–4.
+
+DETAILED LESSON PLAN (DAY 2 – VARIABLES & DATA TYPES)
+Lesson Title: Variables & Data Types
+Duration: 45–60 minutes
+Materials: Laptop, Replit/Compiler
+
+Learning Objectives
+Students will:
+•	Define a variable
+•	Create variables
+•	Identify string, int, float
+•	Print values
+•	Write simple programs
+
+Lesson Flow
+1. Warm-Up – 5 min
+Ask: “Where do we store things in real life?”
+Explain how variables store information in Python.
+
+2. Introduction to Variables – 10 min
+•	Variable = name that holds a value
+Examples:
+name = "John"
+age = 12
+
+3. Data Types – 10 min
+•	String – text
+•	Integer – whole number
+•	Float – decimal
+Examples:
+city = "Mumbai"
+height = 160
+temperature = 36.6
+
+4. Hands-On Coding – 15 min
+Students create:
+fruit = "Apple"
+quantity = 5
+price = 12.50
+print(fruit)
+print(quantity)
+print(price)
+
+5. Challenge Activity – 10 min
+Students create a personal info program.
+
+Assessment (Exit Ticket)
+•	What is a variable?
+•	Example of a string variable
+•	Create a float variable
+•	Predict output
+
+Homework
+Personal info program with 4 variables.
+
+MCQ QUIZ (10 Questions)
+Q1. What is Python?
+A. A type of snake
+B. A programming language
+C. A computer
+D. None
+Answer: B
+
+Q2. Which function prints output?
+A. show ()
+B. output ()
+C. print ()
+D. display ()
+Answer: C
+
+Q3. Which is a string?
+A. 12
+B. 4.5
+C. "Hello"
+D. -7
+Answer: C
+
+Q4. Which is an integer?
+A. "14"
+B. 3.14
+C. 14
+D. "3.14"
+Answer: C
+
+Q5. What does input () do?
+A. Shows output
+B. Takes user input
+C. Adds numbers
+D. Stops program
+Answer: B
+
+Q6. Which symbol is used for multiplication?
+A. x
+B. *
+C. /
+D. –
+Answer: B
+
+Q7. What does this code do?
+age = 10
+print(age)
+A. Prints 10
+B. Prints age
+C. Error
+D. Prints nothing
+Answer: A
+
+Q8. float refers to:
+A. Whole numbers
+B. Decimal numbers
+C. Text
+D. True or False
+Answer: B
+
+Q9. Which is a correct variable?
+A. 1name = "Ann"
+B. @age = 10
+C. name = "Ann"
+D. #city = "Delhi"
+Answer: C
+
+Q10. If x = 5 and y = 3, what is x + y?
+A. 8
+B. 2
+C. 53
+D. Error
+Answer: A
+MINI PROJECT – STUDENT ASSIGNMENT
+Project Title: “Personal Information Interactive Program”
+Requirements:
+•	Ask user’s name
+•	Ask age
+•	Ask favorite color
+•	Display all info in a sentence
+Sample Output:
+Enter your name: Sam
+Enter your age: 14
+Enter your Favorite color: Blue
+Hello Sam! You are 14 years old and you like Blue.
+
