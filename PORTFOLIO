@@ -222,9 +222,7 @@ c) print(ten)
 d) print("ten")
 Ans: b) print (10)
 
-
-
-
+-------------------------------------------------------
 
 DETAILED LESSON PLAN (DAY 2 – VARIABLES & DATA TYPES)
 Lesson Title: Variables & Data Types
@@ -358,9 +356,7 @@ C. 53
 D. Error
 Answer: A
 
-
-
-
+---------------------------------------------------------
 
 Day 3 – Input & Basic Expressions
 Lesson Title: Input & Basic Expressions 
@@ -510,6 +506,7 @@ c) Both a and b
 d) None
 Answer: c
 
+---------------------------------------------------
 
 Day 4 – Conditional Statements (if/else)
 Lesson Title: Conditional Statements (if/else)
@@ -697,4 +694,84 @@ c) A program can only have one if statement
 d) if/else only works with numbers
 Answer: b
 
+-------------------------------------------------------
+
+Day 5 – Project Day
+Theme: Apply all concepts learned from Days 1–4
+(Input, Variables, Data Types, Expressions, if/else)
+
+Lesson Flow
+1. Warm-Up – 5 min
+Ask students:
+“What kind of programs do you want to build in real life?”
+Explain that today they will choose and build their own mini-project.
+
+2. Project Options – 5 min
+Students choose one of the following projects:
+Option A: Age Calculator
+Use input, variables, expressions:
+birthyear = int (input ("Enter your birth year: "))
+age = 2025 - birthyear
+print ("Your age is:", age)
+
+Option B: Number Comparison Tool
+Use input, type conversion, if/else:
+a = int (input ("Enter first number: "))
+b = int (input ("Enter second number: "))
+
+if a > b:
+    print ("First number is larger")
+elif b > a:
+    print ("Second number is larger")
+else:
+    print ("Both are equal")
+
+Option C: Login System
+Use strings and if/else:
+username = input ("Enter username: ")
+
+if username == "admin":
+    print ("Welcome Admin!")
+else:
+    print ("Access Denied")
+
+Option D: Simple Chat Responder
+Use input + conditional logic:
+message = input ("How are you? ")
+
+if message == "good":
+    print ("That's great!")
+else:
+    print ("Hope your day gets better!")
+
+3. Work Time – 20 min
+Students code their selected project individually or in pairs.
+The teacher helps with debugging and logic.
+
+4. Showcase – 10 min
+Students run their program and explain:
+•	Which project did they choose
+•	What inputs does it take
+•	How the logic works
+
+Learning Outcome
+By the end of Day 5, students can:
+•	Use input correctly
+•	Declare variables
+•	Perform calculations
+•	Make decisions using if/else
+•	Combine all these skills to create a working mini-project
+
+Assessment (Exit Ticket)
+•	What project did you choose?
+•	Which Python concept was hardest for you?
+•	What would you add if you had more time?
+
+Homework
+Improve today’s project by adding one extra feature.
+Examples:
+•	Age calculator → also shows future age
+•	Login system → add password
+•	Chat responder → add more responses
+•	Number comparison → also show difference
 
