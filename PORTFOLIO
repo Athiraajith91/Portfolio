@@ -67,6 +67,8 @@ Outcome:
 Applies concepts from Days 1–4.
 
 
+
+
 Detailed Lesson Plan: Introduction to Python & Printing Output(DAY 1-INTRODUCTION TO PYTHON AND PRINTING OUTPUT)
 Lesson Title: Introduction to Python & Printing Output
 Grade Level: Beginner (Age 10+ / Coding Beginners)
@@ -222,6 +224,8 @@ Ans: b) print (10)
 
 
 
+
+
 DETAILED LESSON PLAN (DAY 2 – VARIABLES & DATA TYPES)
 Lesson Title: Variables & Data Types
 Duration: 45–60 minutes
@@ -274,7 +278,12 @@ Assessment (Exit Ticket)
 •	Predict output
 
 Homework
-Personal info program with 4 variables.
+Create a Python program that stores the following information using variables:
+  Your favorite movie
+  The year it was released
+  The main actor’s name
+  The rating you would give (out of 10, using a float)
+  Then print all four values.
 
 MCQ QUIZ (10 Questions)
 Q1. What is Python?
@@ -348,16 +357,158 @@ B. 2
 C. 53
 D. Error
 Answer: A
-MINI PROJECT – STUDENT ASSIGNMENT
-Project Title: “Personal Information Interactive Program”
-Requirements:
-•	Ask user’s name
-•	Ask age
-•	Ask favorite color
-•	Display all info in a sentence
-Sample Output:
-Enter your name: Sam
-Enter your age: 14
-Enter your Favorite color: Blue
-Hello Sam! You are 14 years old and you like Blue.
+
+
+
+
+
+Day 3 – Input & Basic Expressions
+Lesson Title: Input & Basic Expressions 
+Duration: 45–60 minutes
+Materials: Laptop, Replit/Compiler
+
+Learning Objectives
+By the end of this lesson, students will be able to:
+•	Use the input () function to take user input.
+•	Perform basic arithmetic operations (+, –, *, /, //, %, **).
+•	Convert data types (e.g., int (), float (), str ()).
+•	Build small interactive programs using input and expressions.
+
+1. Warm-Up – 5 min
+Ask students: “How do websites or apps know your name or age?”
+Explain: Programs ask users for information using the input () function.
+
+2. Introduction to Input – 10 min
+Concept: input () lets the user type something during the program.
+It always returns a string.
+      Example:
+name = input ("Enter your name: ")
+print ("Hello", name)
+Discuss how input makes programs interactive.
+
+3. Basic Expressions & Type Conversion – 10 min
+Introduce operators:
+•	Addition (+)
+•	Subtraction (-)
+•	Multiplication (*)
+•	Division (/)
+•	Floor Division (//)
+•	Modulus (%)
+•	Exponent (**)
+Explain type conversion: int (), float (), str ()
+Example:
+age = int (input ("Enter your age: "))
+years = age + 5
+print ("You will be", years, "in 5 years.")
+
+4. Hands-On Coding – 15 min
+Students create a small program using input and operators:
+num1 = float (input ("Enter first number: "))
+um2 = float (input ("Enter second number: "))
+
+print ("Sum =", num1 + num2)
+print ("Difference =", num1 - num2)
+print ("Product =", num1 * num2)
+print ("Division =", num1 / num2)
+The teacher checks if students used the correct type conversion.
+
+5. Challenge Activity – 10 min
+Task: Build a Mini Calculator that displays:
+•	Addition
+•	Subtraction
+•	Multiplication
+•	Division
+•	Remainder (%)
+Students must use input + operators + conversion.
+
+Assessment (Exit Ticket)
+1.	What does the input () function do?
+2.	Why do we use int () or float ()?
+3.	What is the output of: print (10 % 3)?
+4.	Predict the output of this program:
+x = int (input ("Enter number: "))
+print (x * 2)
+
+Homework
+Create a program that asks the user for two numbers and prints:
+•	Their sum
+•	Their average
+•	The larger number Use input, operators, and type conversion.
+
+
+MCQ QUIZ (10 Questions)
+
+1.	What does the input () function return by default?
+a) Integer
+b) Float
+c) String
+d) Boolean
+Answer: c
+
+2.	Which function is used to convert a string to an integer?
+a) str()
+b) float()
+c) int()
+d) input ()
+Answer: c
+
+
+3.	What is the output of: int ("5") + int ("3")?
+a) 53
+b) 8
+c) 5+3
+d) Error
+Answer: b
+
+4.	Which operator performs exponentiation in Python?
+a) ^
+b) **
+c) *
+d) //
+Answer: b
+
+5.	What will 10 // 3 return?
+a) 3.33
+b) 3
+c) 4
+d) 0
+Answer: b
+
+
+6.	Which of the following is correct for taking a number as input?
+a) num = input (int ("Enter a number: "))
+b) num = int (input ("Enter a number: "))
+c) num = input ("Enter a number:", int)
+d) num = number (input ())
+Answer: b
+
+7.	What will be the output of: print (7 % 3)?
+a) 1
+b) 2
+c) 3
+d) 4
+Answer: a
+
+8.	Which of these is NOT an arithmetic operator?
+a) +
+b) %
+c) //
+d) &&
+Answer: d
+
+9.	What happens if you add a string and an integer?
+a) They add normally
+b) Python converts automatically
+c) Error: Type mismatch
+d) It prints them together
+Answer: c
+
+10.	Which statement correctly prints the user's name?
+a) print ("Hello" + name)
+b) print ("Hello", name)
+c) Both a and b
+d) None
+Answer: c
+
+
 
