@@ -511,4 +511,190 @@ d) None
 Answer: c
 
 
+Day 4 – Conditional Statements (if/else)
+Lesson Title: Conditional Statements (if/else)
+       Duration: 45–60 minutes
+Materials: Laptop, Replit/Compiler
+
+Learning Objectives
+By the end of this lesson, students will be able to:
+•	Understand what a condition is
+•	Compare numbers and strings using comparison operators
+•	Use if and else to make decisions in programs
+
+Lesson Flow
+1. Warm-Up – 5 min
+Ask students:
+“Have you ever chosen ‘If it rains, I will take an umbrella’?”
+Explain that computers also make decisions using if/else statements.
+
+2. Introduction to Conditions – 10 min
+Explain comparison operators:
+•	== equal to
+•	! = not equal to
+•	> greater than
+•	< less than
+•	>= greater than or equal
+•	<= less than or equal
+Example:
+Print (5 > 3)    # True
+Print ("A" == "A”)  # True
+Print (10! = 7)   # True
+
+3. Using if/else – 10 min
+Explain structure:
+if condition:
+    # code runs if True
+else:
+    # code runs if False
+Introduce elif, indentation, and its usage.
+Example:
+age = 15
+
+if age >= 18:
+    print ("You can vote.")
+else:
+    print ("You cannot vote yet.")
+
+4. Hands-On Coding – 15 min
+Students practice the following programs:
+a) Age Check Program
+age = int (input ("Enter your age: "))
+
+if age >= 18:
+    print ("You are an adult.")
+else:
+    print ("You are a minor.")
+b) Grading System
+marks = int (input ("Enter your marks: "))
+
+if marks >= 90:
+    print ("Grade A")
+else:
+    print ("Keep trying!")
+c) Login Simulation
+username = input ("Enter username: ")
+
+if username == "admin":
+    print ("Login successful")
+else:
+    print ("Wrong username")
+
+5. Challenge Activity – 10 min
+Task:
+Create a program that checks whether a number is:
+•	Positive
+•	Negative
+•	Zero
+Students must use if, elif, and else.
+
+Assessment (Exit Ticket)
+1.	What is a condition?
+2.	Write an example of an if/else statement.
+3.	What is the output of:
+                    if 5 > 10:
+print("Yes")
+                    else:
+print("No")
+4.	Compare two strings using ==.
+
+Homework
+Create a Python program using if/else to check whether a student has passed or failed.
+•	Input: marks
+•	Condition: marks >= 40 → Pass
+•	Else → Fail
+
+10 MCQs for Conditional Statements (if/else)
+
+1. Which symbol is used for equality comparison in Python?
+a) =
+b) ==
+c) ===
+d)! =
+Answer: b
+
+2. What will this code print?
+if 10 > 5:
+    print("Yes")
+else:
+    print("No")
+a) Yes
+b) No
+c) Error
+d) Nothing
+Answer: a
+
+3. Which of the following is a valid if statement?
+a) if x > 3:
+b) if (x > 3)
+c) if x > 3 then
+d) if x > 3;
+Answer: a
+
+4. What does the else part do?
+a) Runs only if the condition is true
+b) Runs only if the condition is false
+c) Runs only when there is an error
+d) Runs before the if condition
+Answer: b
+
+5. What is the output of:
+if "A" == "a":
+    print("Match")
+else:
+    print ("No Match")
+a) Match
+b) No Match
+c) Error
+d) a
+Answer: b
+
+6. Which operator checks “not equal to”?
+a) =!
+b) !==
+c) !=
+d) <>
+Answer: c
+
+7. Identify the correct structure:
+a)
+if condition:
+print("Hello")
+b)
+if condition
+    print("Hello")
+c)
+if condition:
+    print("Hello")
+d)
+if (condition):
+print("Hello")
+Answer: c
+
+8. What will this code print?
+age = 12
+if age >= 18:
+    print("Adult")
+else:
+    print("Child")
+a) Adult
+b) Child
+c) Nothing
+d) Error
+Answer: b
+
+9. What type of value does a condition return?
+a) int
+b) string
+c) boolean (True/False)
+d) float
+Answer: c
+
+10. Which statement is true about if/else?
+a) else must always come before if
+b) if can exist without else
+c) A program can only have one if statement
+d) if/else only works with numbers
+Answer: b
+
 
