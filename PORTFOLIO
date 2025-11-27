@@ -66,6 +66,162 @@ Students choose one:
 Outcome:
 Applies concepts from Days 1–4.
 
+
+Detailed Lesson Plan: Introduction to Python & Printing Output(DAY 1-INTRODUCTION TO PYTHON AND PRINTING OUTPUT)
+Lesson Title: Introduction to Python & Printing Output
+Grade Level: Beginner (Age 10+ / Coding Beginners)
+Duration: 45–60 minutes
+
+1. Learning Objectives
+By the end of this lesson, students will be able to:
+•	Understand what Python is and where it is used.
+•	Describe what a programming language does.
+•	Write their first Python program using the print () function.
+•	Print text, numbers, and simple expressions in Python.
+•	Identify common printing errors (missing quotes, parentheses).
+
+2. Materials Needed
+•	Laptop or desktop with internet access
+•	Python IDE (Replit / IDLE / Code.org Python Lab)
+
+3. Lesson Introduction (10 minutes)
+"Imagine if your computer could understand your instructions exactly like a smart friend. Python is a language that allows us to talk to the computer!"
+Explain:
+•	Python is a programming language used for apps, websites, AI, and automation.
+•	It is easy to read and great for beginners.
+•	Today, students will create their first Python program.
+Real-life examples of Python usage:
+•	Instagram backend
+•	Google search algorithms (parts)
+•	Robotics & automation
+•	Data science and AI models
+
+4. Direct Instruction (15 minutes)
+4.1 What is print ()?
+•	Python uses the print () function to show output on the screen.
+•	Think of it as asking the computer to "say something".
+Syntax:
+print ("Your message here")
+4.2 How to Print Text
+•	Text must be inside quotes.
+Example:
+print ("Hello, Python!")
+Output:
+Hello, Python!
+4.3 How to Print Numbers
+•	Numbers do not need quotes.
+Example:
+print (25)
+4.4 Printing Multiple Items
+print ("My age is", 12)
+4.5 Why Quotes Matter
+Explain the difference:
+print ("20”) # Text
+print (20)    # Number
+4.6 Common Errors
+Missing Quotes:
+print (Hello)
+Error: NameError
+Missing Parenthesis:
+print "Hello"
+Error: SyntaxError
+
+5. Guided Practice (10 minutes)
+Students try the following with teacher support:
+1.	Print their name
+print ("My name is Ann")
+2.	Print their favourite food
+print ("I love biryani")
+3.	Print a number
+print (2025)
+4.	Print a sentence with text + number
+print ("I am", 20, "years old")
+The teacher checks and corrects errors.
+
+6. Independent Practice (10 minutes)
+Students complete small tasks:
+•	Task 1: Print 3 sentences about yourself.
+•	Task 2: Print your favourite hobby.
+•	Task 3: Print any number between 1–100.
+•	Task 4: Print this exact output:
+Python is fun!
+
+7. Mini Project (5 minutes)
+Create a Personal Introduction Program.
+Students must include:
+•	Name
+•	Age
+•	One favourite thing
+•	One dream for the future
+•	A number of their choice
+Sample Output:
+My name is Rahul.
+I am 12 years old.
+I love football.
+My dream is to become a scientist.
+My favourite number is 18.
+
+8. Assessment / Exit Ticket (5 minutes)
+Ask students to answer:
+1.	What does the print () function do?
+2.	Why do we use quotes?
+3.	Write a correct Python print statement for:
+Welcome to class!
+
+9. Homework
+Create a Python script with 5 print statements describing:
+•	Your best friend
+•	A place you want to visit
+•	A number fact
+•	A motivational quote
+•	Anything funny
+
+10. Teacher Notes / Tips
+•	Encourage students to try different variations of print.
+•	Remind them: text → quotes, numbers → no quotes.
+•	Ask them to read error messages — learning to debug is important.
+•	Celebrate their first successful program.
+
+MCQ Quiz + Answer Key
+
+
+1.	What does the print () function do in Python?
+a) Adds two numbers
+b) Shows output on the screen
+c) Deletes text
+d) Saves the program
+Ans: b) Shows output on the screen
+
+2.	Which of the following is the correct way to print text?
+a) print (Hello)
+b) print ("Hello")
+c) print ("Hello)
+d) print (Hello")
+Ans: b) print("Hello")
+
+3.	Which of these does NOT need quotes?
+a) "Hello"
+b) "Python"
+c) 25
+d) "2025"
+Ans: c) 25
+
+4.	What error occurs when you forget quotes around text?
+a) ZeroDivisionError
+b) NameError
+c) TypeError
+d) ValueError
+Ans: b) NameError
+
+5.	Which command will print the number 10?
+a) print("10")
+b) print(10)
+c) print(ten)
+d) print("ten")
+Ans: b) print (10)
+
+
+
 DETAILED LESSON PLAN (DAY 2 – VARIABLES & DATA TYPES)
 Lesson Title: Variables & Data Types
 Duration: 45–60 minutes
