@@ -17,7 +17,7 @@ Included in This Sample
 
 Tools & Technologies Used
 
- 1. Python IDE
+ 1. Online IDE, VS Code
 
  2. Code.org
 
