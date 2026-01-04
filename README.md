@@ -1,7 +1,7 @@
 # Portfolio
 
 
-Python Curriculum Development Portfolio – Sample Lesson
+Python Curriculum Development and Web Development Curriculum Portfolio – Sample Lesson
 
 This repository contains a sample of my curriculum development work, including a structured coding lesson designed as part of my experience as an International Coding Instructor.
 
