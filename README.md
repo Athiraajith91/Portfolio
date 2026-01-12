@@ -1,36 +1,95 @@
-# Portfolio
+# Instructional Design & Curriculum Development Portfolio
+
+Welcome to my Instructional Design & Curriculum Development portfolio.  
+This repository showcases my work across curriculum planning, lesson design, and digital learning development.  
+Each folder contains a different type of instructional asset aligned with modern ID methodologies such as **ADDIE**, **Bloom’s Taxonomy**, **Scaffolding**, and **Outcome-Based Education (OBE)**.
+
+---
+
+## Repository Structure
+
+/Python-Curriculum/
+/Web-Dev-Lesson-Plan/
+/HTML-CSS-Elearning-Project/
 
 
-Python Curriculum Development and Web Development Curriculum Portfolio – Sample Lesson
+---
 
-This repository contains a sample of my curriculum development work, including a structured coding lesson designed as part of my experience as an International Coding Instructor.
+## **1. Python-Curriculum**
+A complete **beginner-friendly 7-day curriculum** introducing Python programming concepts through structured lessons, outcomes, examples, and practice tasks.
 
-Included in This Sample
+### **Includes:**
+- Day-wise curriculum plan  
+- Learning objectives & outcomes  
+- Sample exercises  
+- Assessment pointers  
+- ID-aligned structure (Bloom’s Taxonomy + scaffolding)
 
- 1. Lesson plan
+**Focus:** Curriculum structure, sequencing, scaffolding, and clarity.
 
- 2. Curriculum outline
+---
 
- 3. Quiz with answer key
+## **2. Web-Dev-Lesson-Plan**
+A detailed and classroom-ready **Web Development lesson plan** covering HTML, CSS, and JavaScript basics.
 
- 4. Student activity/project
+### **Includes:**
+- Step-by-step teacher guide  
+- Clear lesson objectives & prerequisites  
+- Activities, explanations, and examples  
+- Assessment questions  
+- Instructional design alignment  
+- Simple, student-friendly examples  
 
-Tools & Technologies Used
+**Focus:** Lesson planning, pedagogy, clarity of instruction, and outcomes-based teaching.
 
- 1. Online IDE, VS Code
+---
 
- 2. Code.org
+## **3. HTML-CSS-Elearning-Project**
+A complete **mini e-learning module** built using HTML & CSS only.  
+This simulates an actual online learning experience with modular pages and clean UI.
 
-About Me
+### **Pages Included:**
+- **Home Page**  
+- **Lesson 1: Introduction to HTML**  
+- **Interactive Quiz Page**  
+- **Module Summary Page**
 
-I am an International Coding Instructor with experience teaching students across the USA, UK, Australia, UAE, Canada, and multiple African countries. I specialize in simplifying programming concepts through activity-based, beginner-friendly curriculum design. I am currently expanding into AI Instruction Tuning and Prompt Engineering.
+### **Features:**
+- Clean instructional design layout  
+- Fully responsive UI  
+- Beginner-friendly content structure  
+- Modular navigation  
+- Simple and accessible design  
+- Ideal for LMS / Web module demos  
 
-Future Additions 
+**Focus:** Digital learning design, user experience, and microlearning structure.
 
- 1. Additional lesson plan samples
+---
 
- 2. Multi-week curriculum modules
+## Purpose of This Repository
 
- 3. Worksheets and student projects
+This portfolio demonstrates my ability to:
 
- 4. Assessment banks
+- Design structured **curriculum frameworks**
+- Create **outcome-based lesson plans**
+- Build simple **digital learning modules**
+- Apply Instructional Design principles (ADDIE, Bloom’s Taxonomy, Scaffolding)
+- Develop learner-centered content for digital and classroom environments
+- Present learning materials in clear, engaging formats
+- Use technology to enhance learning experiences
+
+---
+
+## Tools & Skills Demonstrated
+
+- Curriculum Development  
+- Instructional Design Frameworks  
+- Lesson Planning  
+- HTML & CSS (e-learning prototypes)  
+- User Experience (UX) in learning  
+- Visual hierarchy & content structuring  
+- Learning outcomes writing  
+- Simplification of technical content  
+- Digital course/module creation  
+
+
