@@ -1,1 +1,85 @@
+* {
+    padding-top: 0;
+    margin: 0;
+    font-family: Roboto;
+}
+
+.upper-part {
+    height: 70px;
+    background-color: rgb(13, 110, 253);
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+
+.mainhead {
+    color: white;
+
+    font-size: 28px;
+}
+
+.middle-part {
+    background-color: rgb(242, 246, 255);
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.middlehead {
+    color: rgb(0, 40, 77);
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.middle-part p {
+    font-size: 18px;
+    color: rgb(35, 35, 35);
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 18px;
+}
+
+.midbutton {
+    background-color: rgb(13, 110, 253);
+    border: none;
+    color: white;
+    padding: 12px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.features {
+    display: flex;
+    margin-top: 90px;
+
+    justify-content: center;
+
+}
+
+.cards {
+    border: 1px solid rgb(245, 243, 243);
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-top: 25px;
+    box-shadow: 10px 10px 5px lightblue;
+    margin-right: 50px;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: rgb(233, 236, 239);
+    height: 50px;
+    align-items: center;
+}
 
