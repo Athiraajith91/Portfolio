@@ -1,1 +1,93 @@
+* {
+    padding-top: 0;
+    margin: 0;
+    font-family: Roboto;
+}
+
+.upper-part {
+    height: 40px;
+    background-color: rgb(13, 110, 253);
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.mainhead {
+    color: white;
+
+    font-size: 28px;
+}
+
+.cards {
+    border: 1px solid rgb(245, 243, 243);
+    height: 450px;
+    width: 700px;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-top: 25px;
+    box-shadow: 0 0 5px lightblue;
+    margin-left: 400px;
+    margin-top: 50px;
+
+}
+
+.card-head {
+    color: rgb(13, 59, 102);
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.sub-text {
+    color: rgb(68, 68, 68);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.homebutton {
+    background-color: rgb(13, 110, 253);
+    border: none;
+    color: white;
+    padding: 12px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: 50px;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    background-color: rgb(233, 236, 239);
+    height: 50px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    background-color: rgb(238, 244, 255);
+
+    margin-bottom: 10px;
+    border: 1px solid white;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border-left: 4px solid rgb(13, 110, 253);
+    border-radius: 6px;
+    padding-left: 10px;
+}
+
+.tip {
+    margin-left: 150px;
+    color: rgb(68, 68, 68);
+}
 
