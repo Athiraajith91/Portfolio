@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>QUIZ</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+    
+    <div class="container">
+        <h1>Interactive Quiz</h1>
+
+        <div id="quiz-box">
+            <h2 id="question">Question text</h2>
+
+            <div id="options"></div>
+
+            
+        </div>
+
+        <div id="result-box" class="hidden">
+            <h2>Your Score:</h2>
+            <p id="score"></p>
+            <button onclick="location.reload()">Restart Quiz</button>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
