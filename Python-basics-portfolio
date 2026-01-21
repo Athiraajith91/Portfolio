@@ -76,8 +76,8 @@ Duration: 45–60 minutes
 
 1. Learning Objectives
 By the end of this lesson, students will be able to:
-•	Understand what Python is and where it is used.
 •	Describe what a programming language does.
+• Understand what Python is and where it is used.
 •	Write their first Python program using the print () function.
 •	Print text, numbers, and simple expressions in Python.
 •	Identify common printing errors (missing quotes, parentheses).
