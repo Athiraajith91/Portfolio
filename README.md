@@ -1,95 +1,114 @@
-# Instructional Design & Curriculum Development Portfolio
+Hi, I'm Athira A
+Instructional Designer | Curriculum Developer | Coding Instructor | Web Developer
 
-Welcome to my Instructional Design & Curriculum Development portfolio.  
-This repository showcases my work across curriculum planning, lesson design, and digital learning development.  
-Each folder contains a different type of instructional asset aligned with modern ID methodologies such as **ADDIE**, **Bloom’s Taxonomy**, **Scaffolding**, and **Outcome-Based Education (OBE)**.
+Welcome to my GitHub profile!
+I create engaging learning experiences and build ed-tech-friendly projects using Web Development, Python, and Instructional Design principles.
+This space showcases my projects and ID-focused work.
 
----
+🗂️ 📚 Featured Projects
 
-## Repository Structure
+Each project has its own README inside its folder.
 
-/Python-Curriculum/
-/Web-Dev-Lesson-Plan/
-/HTML-CSS-Elearning-Project/
+🎮 1. Quiz Application
+
+Tech: HTML, CSS, JavaScript
+An interactive quiz module used in eLearning assessments.
+📁 Folder: /Quiz
+
+📝 2. To-Do List Application
+
+Tech: HTML, CSS, JavaScript
+A simple productivity tool demonstrating beginner CRUD concepts.
+📁 Folder: /To-Do-List
+
+🎓 3. eLearning Website (HTML–CSS)
+
+Tech: HTML, CSS
+A structured mini eLearning webpage showcasing layout design principles.
+📁 Folder: /elearning project
+
+🎯 Instructional Design Portfolio
+
+Along with coding projects, I create a variety of Instructional Design materials:
+
+📘 ID Deliverables
+
+Storyboards
+
+Teacher-facing slides
+
+Lesson plans
+
+Curriculum design
+
+Microlearning modules
+
+Assessments
+
+eLearning prototypes
+
+AI-enhanced instructional content
+
+📚 Frameworks I Use
+
+ADDIE
+
+Bloom’s Taxonomy
+
+Microlearning
+
+Gagné’s Nine Events
+
+Backward Design
 
 
----
+🛠️ Skills
+Instructional Design
 
-## **1. Python-Curriculum**
-A complete **beginner-friendly 7-day curriculum** introducing Python programming concepts through structured lessons, outcomes, examples, and practice tasks.
+Learning objectives
 
-### **Includes:**
-- Day-wise curriculum plan  
-- Learning objectives & outcomes  
-- Sample exercises  
-- Assessment pointers  
-- ID-aligned structure (Bloom’s Taxonomy + scaffolding)
+Storyboarding
 
-**Focus:** Curriculum structure, sequencing, scaffolding, and clarity.
+Assessment design
 
----
+Microlearning
 
-## **2. Web-Dev-Lesson-Plan**
-A detailed and classroom-ready **Web Development lesson plan** covering HTML, CSS, and JavaScript basics.
+Curriculum development
 
-### **Includes:**
-- Step-by-step teacher guide  
-- Clear lesson objectives & prerequisites  
-- Activities, explanations, and examples  
-- Assessment questions  
-- Instructional design alignment  
-- Simple, student-friendly examples  
+Technical Skills
 
-**Focus:** Lesson planning, pedagogy, clarity of instruction, and outcomes-based teaching.
+Python
 
----
+HTML, CSS, JavaScript
 
-## **3. HTML-CSS-Elearning-Project**
-A complete **mini e-learning module** built using HTML & CSS only.  
-This simulates an actual online learning experience with modular pages and clean UI.
+C, C++, Java
 
-### **Pages Included:**
-- **Home Page**  
-- **Lesson 1: Introduction to HTML**  
-- **Interactive Quiz Page**  
-- **Module Summary Page**
+Git & GitHub
 
-### **Features:**
-- Clean instructional design layout  
-- Fully responsive UI  
-- Beginner-friendly content structure  
-- Modular navigation  
-- Simple and accessible design  
-- Ideal for LMS / Web module demos  
+EdTech Tools
 
-**Focus:** Digital learning design, user experience, and microlearning structure.
+Code.org
 
----
+Scratch
 
-## Purpose of This Repository
+App Lab
 
-This portfolio demonstrates my ability to:
+Canva
 
-- Design structured **curriculum frameworks**
-- Create **outcome-based lesson plans**
-- Build simple **digital learning modules**
-- Apply Instructional Design principles (ADDIE, Bloom’s Taxonomy, Scaffolding)
-- Develop learner-centered content for digital and classroom environments
-- Present learning materials in clear, engaging formats
-- Use technology to enhance learning experiences
+PowerPoint
 
----
+📜 Certifications
 
-## Tools & Skills Demonstrated
+Google AI Essentials (Specialization)
 
-- Curriculum Development  
-- Instructional Design Frameworks  
-- Lesson Planning  
-- HTML & CSS (e-learning prototypes)  
-- User Experience (UX) in learning  
-- Visual hierarchy & content structuring  
-- Learning outcomes writing  
-- Simplification of technical content  
-- Digital course/module creation  
+Additional coding & teaching certifications
+
+📫 Connect With Me
+
+Email: athiraajith91@gmail.com
+
+LinkedIn: https://linkedin.com/in/athira-a-4aba615a
+
+GitHub: https://github.com/Athiraajith91
 
 
