@@ -17,3 +17,12 @@ Interactive Knowledge Check
 View Course
 https://share.articulate.com/v2UD9GYVAo_F_lOrPY6BU
 
+Tools & Methods Used
+
+Articulate Rise 360
+Instructional Design Frameworks: ADDIE, Gagné’s Nine Events, Microlearning Structure
+Media Assets: Icons, illustrations, interactive blocks
+
+Created By
+Athira A
+Instructional Designer & eLearning Developer
