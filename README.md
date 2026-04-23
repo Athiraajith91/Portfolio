@@ -1,101 +1,72 @@
-Hi, I'm Athira A
-Instructional Designer | Curriculum Developer | Coding Instructor | Web Developer
+Instructional Designer | AI-Powered Learning Designer
 
-Welcome to my GitHub profile!
-I create engaging learning experiences and build ed-tech-friendly projects using Web Development, Python, and Instructional Design principles.
-This space showcases my projects and ID-focused work.
+About Me
+I am a Coding Instructor with growing expertise in Instructional Design & eLearning Development. I create engaging, learner-centered experiences using instructional design principles, eLearning tools, and generative AI workflows.
 
-🗂️ 📚 Featured Projects
+My work combines:
 
-Each project has its own README inside its folder.
+Instructional Design (ADDIE, storyboarding, curriculum design)
+eLearning Development (Rise 360, Storyline, SCORM)
+AI & Prompt Engineering for education
 
-🎮 1. Quiz Application
+Skills & Tools
 
-Tech: HTML, CSS, JavaScript
-An interactive quiz module used in eLearning assessments.
-📁 Folder: /Quiz
-
-📝 2. To-Do List Application
-
-Tech: HTML, CSS, JavaScript
-A simple productivity tool demonstrating beginner CRUD concepts.
-📁 Folder: /To-Do-List
-
-🎓 3. eLearning Website (HTML–CSS)
-
-Tech: HTML, CSS
-A structured mini eLearning webpage showcasing layout design principles.
-📁 Folder: /elearning project
-
-🎯 Instructional Design Portfolio
-
-Along with coding projects, I create a variety of Instructional Design materials:
-
-📘 ID Deliverables
-
-Storyboards
-
-Teacher-facing slides
-
-Lesson plans
-
-Curriculum design
-
-Microlearning modules
-
-Assessments
-
-eLearning prototypes
-
-AI-enhanced instructional content
-
-📚 Frameworks I Use
-
-ADDIE
-
-Bloom’s Taxonomy
-
-Microlearning
-
-Gagné’s Nine Events
-
-Backward Design
-
-
-🛠️ Skills
 Instructional Design
 
-Learning objectives
-
+Curriculum Design
 Storyboarding
-
-Assessment design
-
+Learning Objectives (Bloom’s Taxonomy)
+Assessment Design
 Microlearning
 
-Curriculum development
+eLearning Tools
+
+Articulate Rise 360
+Articulate Storyline 360
+SCORM Packaging
 
 Technical Skills
 
-Python
-
 HTML, CSS, JavaScript
+Interactive learning development
 
-C, C++, Java
+AI & Prompt Engineering
 
-Git & GitHub
+Content repackaging using AI
+Prompt design for learning
+Scenario generation
+AI-assisted course creation
 
-EdTech Tools
+Portfolio Sections
 
-Code.org
+📘 Instructional Design
 
-Scratch
+Curriculum, storyboards, and learning design samples.
 
-App Lab
+💻 eLearning Development
 
-Canva
+Interactive courses built using Rise 360 and Storyline.
 
-PowerPoint
+🤖 AI + Prompt Engineering
+
+Projects that combine AI with instructional design, including content repackaging and prompt strategies.
+
+🧑‍🏫 Teacher Training & Lesson Plans
+
+Classroom-ready materials and teaching resources.
+
+🌐 Web Development Projects
+
+Interactive tools like quiz apps and learning utilities.
+
+⭐ Featured Project
+Generative AI Repackaging Project
+
+Converted traditional learning content into microlearning modules using AI prompts and instructional strategies.
+
+Designed prompt workflows
+Created multiple learning formats (quiz, scenarios, summaries)
+Improved learner engagement
 
 📜 Certifications
 
