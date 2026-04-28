@@ -8,3 +8,17 @@ Live Demo (SCORM Cloud Link)
 Click below to launch the course:
 
 https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=aa3f3607-2e60-4f0a-9d56-a967843cd8c3
+
+Learning Objectives
+
+By the end of this module, learners will be able to:
+
+Understand the concept of loops in coding
+Identify use cases of loops
+Practice loop-based thinking through examples
+Complete a knowledge check to reinforce understanding
+
+Tools & Technologies Used
+Articulate Storyline 360
+SCORM 1.2 Export
+SCORM Cloud (for hosting and testing)
