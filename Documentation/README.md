@@ -65,3 +65,5 @@ Email: athiraajith91@gmail.com
 LinkedIn: https://linkedin.com/in/athira-a-4aba615a
 
 GitHub: https://github.com/Athiraajith91
+
+Notion : https://www.notion.so/ATHIRA-A-fa5d5a60f25d8392b6c381e104c0425b?source=copy_link
