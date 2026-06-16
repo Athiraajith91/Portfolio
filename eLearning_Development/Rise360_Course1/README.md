@@ -1,25 +1,16 @@
-Conditionals in Coding (Kids) — Interactive Learning Module
-A kid-friendly module designed for Grade 3–5 learners to understand IF–THEN logic, real-world examples, and basic coding conditionals.
+Responsible AI 
 
+eLearning Courses (Articulate Rise 360) This repository contains interactive microlearning modules created using Articulate Rise 360. These courses demonstrate instructional design skills, learner-centered microlearning structure, and visual storytelling.
+
+Responsible AI — 5-10 Minute Microlearning A short microlearning module introducing learners to the core ideas of Responsible AI.
 Course Overview
 
-What Are Conditionals? (Kid-friendly intro)
-Conditionals in Real Life
-Conditionals in Coding (Scratch/Blockly style)
-Build Your Own Conditional (Paw Patrol mini-story interaction)
-Drag-and-Drop Practice
-Quiz & Completion Badge
+What is Responsible AI? AI Decision Flow (Input → Model → Output → Human Check) Types of AI Harms Principles of Responsible & Safe AI Guidelines for Safe AI Usage Interactive Knowledge Check
 
-View Course
-https://share.articulate.com/QbTqXL6wo3GBfxzMJvT7B
-
+View Course https://share.articulate.com/v2UD9GYVAo_F_lOrPY6BU
 
 Tools & Methods Used
 
-Articulate Rise 360
-Instructional Design Frameworks: ADDIE, Gagné’s Nine Events, Microlearning Structure
-Media Assets: Icons, illustrations, interactive blocks
+Articulate Rise 360 Instructional Design Frameworks: ADDIE, Gagné’s Nine Events, Microlearning Structure Media Assets: Icons, illustrations, interactive blocks
 
-Created By
-Athira A
-Instructional Designer & eLearning Developer
+Created By Athira A Instructional Designer & eLearning Developer
